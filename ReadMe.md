@@ -25,6 +25,10 @@ Welcome to the Millionaire Game! This is a quiz-based game where players answer 
 
 ## Example of the project
 
+![Ex1](examples/end.png)
+
+![Ex2](examples/start.png)
+
 ## Created by
 
 Emilio S Conde Ludena
